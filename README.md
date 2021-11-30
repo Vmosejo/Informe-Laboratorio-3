@@ -2,9 +2,7 @@
 ## 1. OBJETIVOS
 
    1.1 GENERAL
-
- Analizar el manejo correcto de los nodos en los circuitos eléctricos expuestos,a través de la elaboración del Laboratorio N°3 hacer uso de las leyes antes estudiadas de esta forma mejorar la comprensión del comportamiento que existe dentro de un circuito.
-
+Analizar el manejo correcto de los nodos en los circuitos eléctricos expuestos, a través de la elaboración del Laboratorio N°3 se va hacer uso de las leyes fundamentales antes estudiadas y de esta forma mejorar la comprensión sobre el comportamiento que existe dentro de un circuito.
    1.2 ESPECÍFICOS
    
 *    
