@@ -13,6 +13,9 @@ Analizar el manejo correcto de los nodos en los circuitos eléctricos expuestos,
 
 ## 2. MARCO TEÓRICO
 
+En un circuito eléctrico, un nodo es un punto donde se cruzan dos o más elementos de circuitos, sea una fuente de voltaje o corriente, resistencias, capacitores, inductores, etc.
+![image](https://user-images.githubusercontent.com/93666408/143991305-4b8bb10d-d377-4680-966e-5aee1c8d5f7f.png)
+
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
