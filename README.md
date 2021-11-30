@@ -56,11 +56,13 @@ Luego de haber realizado el análisis de los nodos, obtenemos un sistema de dos 
 ![Respuestas](https://user-images.githubusercontent.com/93681159/143971447-fa33f8bf-2f7e-4e7c-8d64-2a4bc0ca2fbd.jpeg)
 #### Resultados simulados
 ![image](https://user-images.githubusercontent.com/93681159/143973341-20610dca-dd65-491a-8022-284d75d401b6.png)
+#### Resultados Experimentales
+![image](https://user-images.githubusercontent.com/93681159/144061129-a1bd9b83-30aa-4deb-a07f-be0be40039a4.png)
 #### Tabla de resultados
 | NODO | Resultados Analíticos | Resultados Experimentales | Resultados Simulados |
 | ------------- | ------------- | ------------- | ------------- |
-|  A  |  2.82028 V  |  Contenido de la celda  |  2.82 V  |
-|  B  |  4.80195 V  |  Contenido de la celda  |  4.80 V  |
+|  A  |  2.82028 V  |  2.82 V  |  2.82 V  |
+|  B  |  4.80195 V  |  4.80 V  |  4.80 V  |
 ## 4. VIDEO
 
 
