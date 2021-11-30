@@ -35,6 +35,8 @@ Luego de haber realizado el análisis de los nodos, obtenemos un sistema de dos 
 ![image](https://user-images.githubusercontent.com/93681159/143970931-ed5c5e60-69fe-4414-8938-46785cb21bb8.png)
 ![image](https://user-images.githubusercontent.com/93681159/143970964-4904ed0d-1e41-4bf5-bc55-d6d640667e04.png)
 ![Respuestas](https://user-images.githubusercontent.com/93681159/143971447-fa33f8bf-2f7e-4e7c-8d64-2a4bc0ca2fbd.jpeg)
+#### Resultados simulados
+![image](https://user-images.githubusercontent.com/93681159/143973341-20610dca-dd65-491a-8022-284d75d401b6.png)
 
 ## 4. VIDEO
 
