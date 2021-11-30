@@ -7,7 +7,9 @@ Analizar el manejo correcto de los nodos en los circuitos eléctricos expuestos,
 
    1.2 ESPECÍFICOS
    
-*    
+* Encontrar el voltaje en el circuito eléctrico aplicando el análisis de nodos.
+* Determinar la diferencia que existe entres los resultados de analíticos,experimentales y simulados.
+* Aplicar la ley de Kirchhoff para cada uno de los nodos que no son de referencia posteriormente hacer uso de la ley de Ohm para expresar las corrientes de las ramas en términos de los voltajes de nodo.
 
 ## 2. MARCO TEÓRICO
 
@@ -37,10 +39,9 @@ Luego de haber realizado el análisis de los nodos, obtenemos un sistema de dos 
 ![Respuestas](https://user-images.githubusercontent.com/93681159/143971447-fa33f8bf-2f7e-4e7c-8d64-2a4bc0ca2fbd.jpeg)
 #### Resultados simulados
 ![image](https://user-images.githubusercontent.com/93681159/143973341-20610dca-dd65-491a-8022-284d75d401b6.png)
-![e010566c-12c1-40fb-a688-c1544574a559](https://user-images.githubusercontent.com/93893919/143988129-d845188e-8f55-4e02-bcd2-caaddaebe137.jpg)
 
 ## 4. VIDEO
-https://www.youtube.com/watch?v=F7fcEanEuoA
+
 
 
 ## 5. CONCLUSIONES
