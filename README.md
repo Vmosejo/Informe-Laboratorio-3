@@ -64,8 +64,7 @@ Luego de haber realizado el análisis de los nodos, obtenemos un sistema de dos 
 |  A  |  2.82028 V  |  2.82 V  |  2.82 V  |
 |  B  |  4.80195 V  |  4.80 V  |  4.80 V  |
 ## 4. VIDEO
-
-
+https://www.youtube.com/watch?v=F7fcEanEuoA&t=1s
 
 ## 5. CONCLUSIONES
 * Es importante cumplir con un orden establecido para el análisis de nodos,ya que si no se cumple con la organización adecuada se puede cometer errores en el momento de realizar los calculos pertinentes.
