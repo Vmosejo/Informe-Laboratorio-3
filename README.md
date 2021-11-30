@@ -62,7 +62,9 @@ Luego de haber realizado el análisis de los nodos, obtenemos un sistema de dos 
 
 
 ## 5. CONCLUSIONES
-* 
+* Es importante cumplir con un orden establecido para el análisis de nodos,ya que si no se cumple con la organización adecuada se puede cometer errores en el momento de realizar los calculos pertinentes.
+* Como dato adicional las leyes de Kirchhoff cumplen con un rol importante dentro del análisis,nos facilitaron el cálculo de mallas y nodos en el circuito,y que el margen de error que presenta sea debido a las resistencias que componen el circuito.
+* Por último en el presente informe se llego a la conclusión sobre la importancia de analizar los nodos en un circuito eléctrico es que cuando al analizar el nodo de referencia que el valor del voltaje es cero, también saber los voltajes que regulan cada una de las resistencias de un circuito y la corriente que entra tiene que ser igual a la corriente que salen en todo el circuito y establecer el sentido de las corrientes en los nodos.
 ## 6. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
 * Anónimo. (s/f). Sistema de tres ecuaciones lineales con tres incógnitas. Calculadora online. http://matematicas.relatividad.org/widget-sistema-tres-incognitas.html
