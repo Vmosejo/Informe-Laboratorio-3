@@ -23,6 +23,14 @@ El análisis de nodos nos ofrece tres criterios importantes que son los siguient
 3) Cualquiera o todas las demás variables de interés, se deben obtener a partir de la solución de la ecuación matricial.
 
 
+Para este método, interesa hallar los voltajes de nodo. La ventaja de aplicar este método es el número de incógnitas, a diferencia de usar los métodos convencionales, el análisis se volvería complejo con altas probabilidades de cometer errores.
+Citando al texto de fundamentos de circuitos eléctricos, el análisis de nodos nos brinda un procedimiento general para resolver circuitos con el uso de voltajes de nodo como variables a encontrar.
+La elección de los voltajes de nodo en vez de voltajes de elementos o dispositivos, resulta conveniente y reduce la cantidad de ecuaciones simultáneas a resolver.
+
+![image](https://user-images.githubusercontent.com/93666408/143992215-181caed5-835f-448d-a66b-ca597e7b920c.png)
+
+
+
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 En primer lugar identificamos nuestro circuito y procedemos a localizar nuestros nodos principales y de referencia.
