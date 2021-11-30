@@ -28,6 +28,7 @@ Citando al texto de fundamentos de circuitos eléctricos, el análisis de nodos 
 La elección de los voltajes de nodo en vez de voltajes de elementos o dispositivos, resulta conveniente y reduce la cantidad de ecuaciones simultáneas a resolver.
 
 ![image](https://user-images.githubusercontent.com/93666408/143992215-181caed5-835f-448d-a66b-ca597e7b920c.png)
+![Untitled (1)](https://user-images.githubusercontent.com/93666408/143994101-800c6913-bcd6-4668-82e8-36974991e4cc.jpg)
 
 
 
